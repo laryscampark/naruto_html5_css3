@@ -1,0 +1,49 @@
+body{
+    background: #ffe6e6;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+h1 {
+    font-family: serif;
+}
+
+h2 {
+    font-family: serif;
+}
+
+p {
+    font-family: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+ .img_padrao{
+     margin-bottom: 20px;
+     width: 300px;
+ }
+
+ .img_cliente{
+     margin-bottom: 20px;
+     width: 300px;
+ }
+
+ .img_produto{
+     margin-bottom: 20px;
+     width: 300px;
+ }
+
+ .img_times{
+     margin-bottom: 20px;
+     width: 300px;
+ }
+
+ .img_contato{
+     width: 30px;
+ }
